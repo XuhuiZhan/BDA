@@ -1,4 +1,4 @@
-inde,ts_code,Date,Open,High,Low,Close,pre_close,change,pct_chg,Volume,amount
+,ts_code,trade_date,open,high,low,close,pre_close,change,pct_chg,vol,amount
 0,000001.SZ,20211206,17.85,18.56,17.8,18.1,17.65,0.45,2.5496,2145625.28,3896385.171
 1,000001.SZ,20211203,17.64,17.7,17.41,17.65,17.59,0.06,0.3411,707599.74,1242375.057
 2,000001.SZ,20211202,17.62,17.81,17.37,17.59,17.64,-0.05,-0.2834,994798.35,1749164.558
